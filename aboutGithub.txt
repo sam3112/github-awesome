@@ -1,2 +1,3 @@
 this file is about git hub
 git hub community is awesome community
+github is host for git
