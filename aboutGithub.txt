@@ -1,3 +1,5 @@
 this file is about git hub
 git hub community is awesome community
 github is the way to collaborate with others
+git hub is how git is used online
+thanks to git hub
